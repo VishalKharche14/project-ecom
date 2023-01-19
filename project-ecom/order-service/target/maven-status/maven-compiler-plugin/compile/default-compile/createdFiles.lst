@@ -1,0 +1,8 @@
+com\vsk\orderservice\dto\OrderLineItemsDto.class
+com\vsk\orderservice\OrderServiceApplication.class
+com\vsk\orderservice\service\OrderService.class
+com\vsk\orderservice\model\OrderLineItems.class
+com\vsk\orderservice\dto\OrderRequest.class
+com\vsk\orderservice\repository\OrderRepository.class
+com\vsk\orderservice\model\Order.class
+com\vsk\orderservice\controller\OrderController.class
